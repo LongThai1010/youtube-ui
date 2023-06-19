@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: var(--default-layout-header-height);
+    box-shadow: 0 1px 1px rgb(216, 216, 216);
+    padding: 0 16px;
+}
+
+.inner {
+    height: 100%;
+    width: 100%;
+    
+}
