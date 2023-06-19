@@ -24,3 +24,13 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
 }
+
+button, input, [tabindex] {
+    outline: none;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
