@@ -24,9 +24,13 @@
     cursor: pointer;
 }
 
+.search,
+.search-result {
+    width: 540px;
+}
+
 .search {
     display: flex;
-    width: 540px;
     height: 40px;
     padding-left: 16px;
     border-radius: var(--search-border-radius);

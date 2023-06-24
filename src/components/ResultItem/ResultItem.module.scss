@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    padding: 6px 10px;
+
+    &:hover {
+        background-color: rgba(22, 24, 35, 0.1)
+    }
+}
+
+.search-item {
+    font-size: 24px;
+    border: none;
+    background-color: #fff;
+}
+
+.info {
+    flex: 1;
+    margin-left: 14px;
+    font-weight: 400;
+}
